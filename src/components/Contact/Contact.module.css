@@ -1,0 +1,28 @@
+
+.container {
+    display: flex;
+    gap: 100px;
+    align-items: center; 
+    margin: 0 auto;
+
+   }
+.contact {   
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-left: 4px;
+
+}
+
+.button {
+    width: 60px;
+    height: 28px;
+    text-align: center;    
+
+}
+.items {
+    display: flex;       
+    gap: 8px;
+    margin: 0;
+    font-size: 12px;
+}
