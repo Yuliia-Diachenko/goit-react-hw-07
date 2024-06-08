@@ -4,10 +4,9 @@
     gap: 10px;
     width: 316px;
     padding: 2px;   
-
+    list-style-type: none;
 }
 .contactList {
-    display: flex;
     border: 1px solid #2a2a2a;
     border-radius: 2px;
 }

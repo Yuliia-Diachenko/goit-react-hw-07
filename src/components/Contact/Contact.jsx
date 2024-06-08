@@ -15,7 +15,7 @@ return (
         <p className={css.items}><FaUser/>{name}</p>
         <p className={css.items}><FaPhone/>{number}</p>
     </div>
-    <button className={css.button} onClick={handleDelete} >Delate</button>
+    <div><button className={css.button} onClick={handleDelete} >Delate</button></div>
     </div>
 );
 }
